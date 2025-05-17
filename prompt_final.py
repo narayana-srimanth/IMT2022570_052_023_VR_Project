@@ -71,6 +71,8 @@ Guidelines:
   - Color recognition
   - Function-based
   - Reasoning-based
+-Ensure an increasing level of question complexity and reasoning
+
 
 Output Format (strict JSON format):
 {
